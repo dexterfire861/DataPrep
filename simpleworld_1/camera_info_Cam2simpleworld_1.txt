@@ -1,0 +1,8 @@
+seq: 183
+stamp: 
+  secs: 2163
+  nsecs: 428000000
+frame_id: "camera_link"
+1080
+1920
+bgr8
